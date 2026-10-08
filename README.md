@@ -21,7 +21,7 @@ Press Enter to move to the next section. Press Ctrl+C to exit at any time.
 
 ## Note
 
-This is not a scientific proof of Vedanta. It is a philosophical walkthrough of the Upanishadic and Advaita tradition. Other Vedanta schools read these ideas differently.
+It is a philosophical walkthrough of the Upanishadic and Advaita tradition. Other Vedanta schools read these ideas differently.
 
 ## Author
 
