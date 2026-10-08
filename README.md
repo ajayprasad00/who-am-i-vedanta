@@ -1,1 +1,1 @@
-# who-am-i-vedanta.
+# who-am-i-vedanta
